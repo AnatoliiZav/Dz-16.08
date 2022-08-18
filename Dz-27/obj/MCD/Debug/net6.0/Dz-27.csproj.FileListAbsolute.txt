@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\bin\MCD\Debug\net6.0\Dz-27.exe
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\bin\MCD\Debug\net6.0\Dz-27.deps.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\bin\MCD\Debug\net6.0\Dz-27.runtimeconfig.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\bin\MCD\Debug\net6.0\Dz-27.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\bin\MCD\Debug\net6.0\Dz-27.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.AssemblyInfo.cs
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\refint\Dz-27.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\Dz-27.genruntimeconfig.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\DZ-16.08\Dz-27\obj\MCD\Debug\net6.0\ref\Dz-27.dll
